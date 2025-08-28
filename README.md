@@ -1,2 +1,2 @@
 Hola!
-College 
+College is bad
