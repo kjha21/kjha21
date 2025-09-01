@@ -1,8 +1,9 @@
 # 💫 About Me:
 ◻️I am learning React.js<br>◻️I am also UI/UX Developer<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=kjha21&icon=7&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kjha21.kjha21&left_color=blue"  />
+</div>
 
 
 ## 🌐 Socials:
